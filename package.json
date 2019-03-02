@@ -1,0 +1,26 @@
+{
+  "name": "walkscore-pk",
+  "version": "0.0.0",
+  "description": "Walkscrore API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/et4891/walkscore-pk.git"
+  },
+  "keywords": [
+    "walkscore",
+    "transit",
+    "bike",
+    "locations",
+    "nearby"
+  ],
+  "author": "ET",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/et4891/walkscore-pk/issues"
+  },
+  "homepage": "https://github.com/et4891/walkscore-pk#readme"
+}
