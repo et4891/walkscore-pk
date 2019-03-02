@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/et4891/walkscore-pk/issues"
   },
-  "homepage": "https://github.com/et4891/walkscore-pk#readme"
+  "homepage": "https://github.com/et4891/walkscore-pk#readme",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
 }

@@ -1,2 +1,11 @@
+# folders
+node_modules
+
+
+# editors
 .idea
 .vscode
+
+
+# others
+package-lock.json
