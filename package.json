@@ -1,6 +1,6 @@
 {
   "name": "walkscore-pk",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Walkscrore API",
   "main": "index.js",
   "scripts": {
