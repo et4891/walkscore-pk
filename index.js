@@ -46,7 +46,7 @@ class WalkScore {
     }
 
     get apiPath() {
-        return `${this.api.prefix}${this.api.format}&address=${this.api.address}&lat=${this.api.lat}&lon=${this.api.lon}&=transit${this.api.transit}&=bike&${this.api.bike}&wsapikey=${this.api.wsapikey}`
+        return `${this.api.prefix}${this.api.format}&address=${this.api.address}&lat=${this.api.lat}&lon=${this.api.lon}&transit=${this.api.transit}&bike=${this.api.bike}&wsapikey=${this.api.wsapikey}`
     }
 
     get getScores() {
